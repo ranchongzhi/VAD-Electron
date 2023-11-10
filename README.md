@@ -1,0 +1,1 @@
+A video anomaly detection interface based on [electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
